@@ -1,17 +1,16 @@
 # 🎮 ValorQuest – Turn Your Life Into an RPG
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/91b78df0-f872-4506-8a3d-d222df8832de" width="30%" />
-  <img src="https://github.com/user-attachments/assets/e65c2d3e-363f-4563-9ebf-9d51f8477e1a" width="30%" />
-  <img src="https://github.com/user-attachments/assets/3113c4ec-41cb-4495-ac17-63fb59799af6" width="30%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/ab65dbe9-42c1-4d6d-b3b4-cddc4ce90cb7" width="30%" />
   <img src="https://github.com/user-attachments/assets/3ef507f0-554f-4864-ae3c-5864426782cd" width="30%" />
   <img src="https://github.com/user-attachments/assets/3575cab2-53cd-472e-a921-43864e7a9be1" width="30%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91b78df0-f872-4506-8a3d-d222df8832de" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e65c2d3e-363f-4563-9ebf-9d51f8477e1a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3113c4ec-41cb-4495-ac17-63fb59799af6" width="30%" />
+</p>
 
 ValorQuest is a mobile RPG productivity app that transforms your everyday responsibilities into an immersive adventure. Instead of traditional to-do lists, users create custom quests based on real-life tasks—like studying, exercising, or doing chores.
 
